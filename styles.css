@@ -1,0 +1,25 @@
+body {
+  background-image: url(./images/bg_image_13.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container{
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.lbl-dob{
+  display: block;
+}
+
+#bday-input {
+  font-size: 1rem;
+  border: 1px solid;
+  border-radius: 3px;
+}
+
+#show-btn {
+  margin-top: 1rem;
+  font-size: 1rem;
+}

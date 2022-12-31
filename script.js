@@ -77,7 +77,7 @@ function getNextDate(date) {
 
   //check for february month
   if (month === 2) {
-    //check ffor leap year
+    //check for leap year
     if (leapYear(year)) {
       if (day > 29) {
         day = 1;
